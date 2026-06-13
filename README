@@ -1,0 +1,55 @@
+# The Competence 🌐
+
+A community platform connecting students across colleges in Tamil Nadu, enabling collaboration and knowledge sharing across domains like Full Stack, AI/ML, and UI/UX.
+
+## 🚀 Features
+- Domain-based community groups (Full Stack, AI/ML, UI/UX, etc.)
+- Member profiles and connections
+- Resource sharing and announcements
+- Responsive, clean UI
+
+## 🛠️ Tech Stack
+React, Node.js, Express, MongoDB
+
+## 📸 Screenshots
+
+<table>
+<tr>
+<td align="center"><b>Home Page</b></td>
+<td align="center"><b>Community Groups</b></td>
+</tr>
+<tr>
+<td><img src="./screenshots/home.png" width="400"/></td>
+<td><img src="./screenshots/groups.png" width="400"/></td>
+</tr>
+</table>
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository
+```bash
+git clone <your-repo-link>
+cd the-competence
+```
+
+2. Install dependencies (frontend & backend)
+```bash
+cd client && npm install
+cd ../server && npm install
+```
+
+
+3. Run the app
+```bash
+# Backend
+npm run dev
+
+# Frontend (new terminal)
+cd client && npm run dev
+```
+
+## 🌐 Live Demo
+[View Live Demo](#)
+
+## 👤 Author
+Anushri — [Anushri2717](#) 
